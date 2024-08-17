@@ -3,3 +3,4 @@ fin_env/
 
 # Ignore data folder if not using Git LFS
 data/
+
